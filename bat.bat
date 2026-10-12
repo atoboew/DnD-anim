@@ -1,6 +1,7 @@
 @echo off
 chcp 65001 >nul
-
+git config --global user.name "atoboew"
+git config --global user.email "atoboew@gmail.com"
 echo 1. Добавляем все файлы в список...
 git add .
 
